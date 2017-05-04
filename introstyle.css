@@ -393,6 +393,7 @@ nav a#pull {
 	text-align: left;
 	position: relative;
 	left: 16%;
+	width: 70%;
 }
 .slide-text p{
 	font-size: 0.872em;

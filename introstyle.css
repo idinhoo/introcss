@@ -391,7 +391,7 @@ nav a#pull {
 .slide-text-info{
 	margin: 2.5% 0;
 	text-align: left;
-	position: absolute;
+	position: relative;
 	left: 16%;
 }
 .slide-text p{
